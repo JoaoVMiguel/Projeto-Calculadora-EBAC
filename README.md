@@ -1,5 +1,5 @@
 # Projeto-Calculadora-EBAC
-###### Projeto feito durante o curso de analista de dados na EBAC.
+<sub> Projeto feito durante o curso de analista de dados na EBAC.
 
 Se trata de uma calculadora simples desenvolvida na linguagem Python, que permite o usuário realizar as seguintes operações matemáticas:
 - Adição
